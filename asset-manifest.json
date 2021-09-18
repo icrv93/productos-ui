@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/tareamongo/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/tareamongo/static/js/main.feea74d0.chunk.js",
+    "main.js.map": "/tareamongo/static/js/main.feea74d0.chunk.js.map",
+    "runtime-main.js": "/tareamongo/static/js/runtime-main.f8a9e642.js",
+    "runtime-main.js.map": "/tareamongo/static/js/runtime-main.f8a9e642.js.map",
+    "static/css/2.16af0791.chunk.css": "/tareamongo/static/css/2.16af0791.chunk.css",
+    "static/js/2.57d333bc.chunk.js": "/tareamongo/static/js/2.57d333bc.chunk.js",
+    "static/js/2.57d333bc.chunk.js.map": "/tareamongo/static/js/2.57d333bc.chunk.js.map",
+    "index.html": "/tareamongo/index.html",
+    "precache-manifest.fee7f0bdb3e51a35af170a83759332e3.js": "/tareamongo/precache-manifest.fee7f0bdb3e51a35af170a83759332e3.js",
+    "service-worker.js": "/tareamongo/service-worker.js",
+    "static/css/2.16af0791.chunk.css.map": "/tareamongo/static/css/2.16af0791.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/tareamongo/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.57d333bc.chunk.js.LICENSE.txt": "/tareamongo/static/js/2.57d333bc.chunk.js.LICENSE.txt",
+    "static/media/primereact.min.css": "/tareamongo/static/media/line.567f5738.gif",
+    "static/media/theme.css": "/tareamongo/static/media/open-sans-v15-latin-regular.cffb686d.woff2",
+    "static/media/primeicons.css": "/tareamongo/static/media/primeicons.b0f5d02f.eot"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f8a9e642.js",
+    "static/css/2.16af0791.chunk.css",
+    "static/js/2.57d333bc.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.feea74d0.chunk.js"
+  ]
+}
