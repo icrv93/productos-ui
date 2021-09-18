@@ -2,8 +2,6 @@ import axios from "axios";
 
 export class ProductService {
 
-    // baseUrl = "http://localhost:8080/api/products/";
-    //baseUrl = "https://hg-rest-api.herokuapp.com/api/products/";
     baseUrl = "https://tareamongo.herokuapp.com/api/products/";
 
     create(product){

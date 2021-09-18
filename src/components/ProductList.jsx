@@ -21,7 +21,7 @@ const ProductList = () => {
       <Button
         style={{ float: "left" }}
         icon="pi pi-plus"
-        label="Add"
+        label="Agregar producto"
         onClick={() => setIsVisible(true)}
       />
     </div>
@@ -29,7 +29,7 @@ const ProductList = () => {
 
   return (
     <div>
-      <Panel header="LISTA DE PRODUCTOS" style={{ textAlign: "center" }}>
+      <Panel header="Lista de productos" style={{ textAlign: "center" }}>
         <DataTable
           value={products}
           selectionMode="single"
