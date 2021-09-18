@@ -23,7 +23,6 @@ const ProductForm = (props) => {
     expiry_date: null,
   };
 
-
   const [productData, setProductData] = useState(initialProductState);
 
   useEffect(() => {
@@ -38,7 +37,6 @@ const ProductForm = (props) => {
 
     console.log(productData);
   };
-
 
   const _deleteProduct = () => {
     if (editProduct) {
@@ -69,7 +67,6 @@ const ProductForm = (props) => {
     setIsVisible(false);
     setProductData(initialProductState);
   };
-
 
   return (
     <div>

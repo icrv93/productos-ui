@@ -7,7 +7,6 @@ import { ProductContext } from "../contexts/ProductContext";
 import ProductForm from "./ProductForm";
 
 const ProductList = () => {
-  
   const { products, findProduct } = useContext(ProductContext);
 
   const [isVisible, setIsVisible] = useState(false);
