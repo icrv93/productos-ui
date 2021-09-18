@@ -23,6 +23,7 @@ const ProductForm = (props) => {
     expiry_date: null,
   };
 
+
   const [productData, setProductData] = useState(initialProductState);
 
   useEffect(() => {
@@ -37,6 +38,7 @@ const ProductForm = (props) => {
 
     console.log(productData);
   };
+
 
   const _deleteProduct = () => {
     if (editProduct) {
@@ -58,8 +60,8 @@ const ProductForm = (props) => {
 
   const dialogFooter = (
     <div className="ui-dialog-buttonpane p-clearfix">
-      <Button label="Delete" icon="pi pi-times" onClick={_deleteProduct} />
-      <Button label="Save" icon="pi pi-check" onClick={saveProduct} />
+      <Button label="Eliminar" icon="pi pi-times" onClick={_deleteProduct} />
+      <Button label="Guardar" icon="pi pi-check" onClick={saveProduct} />
     </div>
   );
 
@@ -67,6 +69,7 @@ const ProductForm = (props) => {
     setIsVisible(false);
     setProductData(initialProductState);
   };
+
 
   return (
     <div>
