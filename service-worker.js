@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/tareamongo/precache-manifest.fee7f0bdb3e51a35af170a83759332e3.js"
+  "/tareamongo/precache-manifest.79d01120580939e071c056c1b666944b.js"
 );
 
 self.addEventListener('message', (event) => {

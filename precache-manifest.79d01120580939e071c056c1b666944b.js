@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a2a5242ee25b24f5a2bad74d0a8197cf",
+    "revision": "a1c0232b0f6d71cd530104289d96f214",
     "url": "/tareamongo/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tareamongo/static/css/2.16af0791.chunk.css"
   },
   {
-    "revision": "7dcbe452be5eec98dfb6",
+    "revision": "70388a135f2fe23f4336",
     "url": "/tareamongo/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tareamongo/static/js/2.57d333bc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7dcbe452be5eec98dfb6",
-    "url": "/tareamongo/static/js/main.feea74d0.chunk.js"
+    "revision": "70388a135f2fe23f4336",
+    "url": "/tareamongo/static/js/main.ee0278a4.chunk.js"
   },
   {
     "revision": "69b0aebd1d044cd3aa56",
